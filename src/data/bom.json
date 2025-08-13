@@ -1,0 +1,158 @@
+[
+  {
+    "bom_id": "BOM-1001",
+    "product": {
+      "product_id": "PROD-001",
+      "name": "Polyethylene (PE) Sheets",
+      "description": "4-seater wooden dining table",
+      "unit_of_measure": "each",
+      "revision": "A",
+      "effective_date": "2025-01-01"
+    },
+    "components": [
+      {
+        "item_id": "COMP-101",
+        "name": "LDPE",
+        "quantity": 4,
+        "unit_of_measure": "pieces"
+      },
+      {
+        "item_id": "COMP-102",
+        "name": "HDPE",
+        "quantity": 50,
+        "unit_of_measure": "pieces"
+      },
+      {
+        "item_id": "COMP-103",
+        "name": "UHMWPE",
+        "quantity": 0.5,
+        "unit_of_measure": "liters"
+      }
+    ],
+    "metadata": {
+      "created_by": "engineering_user_01",
+      "created_at": "2025-08-01T10:30:00Z",
+      "status": true
+    }
+  },
+  {
+    "bom_id": "BOM-1002",
+    "product": {
+      "product_id": "PROD-002",
+      "name": "Polypropylene (PP) Sheets",
+      "description": "Adjustable ergonomic office chair",
+      "unit_of_measure": "each",
+      "revision": "B",
+      "effective_date": "2025-02-15"
+    },
+    "components": [
+      {
+        "item_id": "COMP-301",
+        "name": "Rigid PVC (uPVC)",
+        "quantity": 6,
+        "unit_of_measure": "pieces"
+      },
+      {
+        "item_id": "COMP-302",
+        "name": "Wear-resistant",
+        "quantity": 40,
+        "unit_of_measure": "pieces"
+      }
+    ],
+    "metadata": {
+      "created_by": "engineering_user_02",
+      "created_at": "2025-08-02T09:00:00Z",
+      "status": true
+    }
+  },
+  {
+    "bom_id": "BOM-1003",
+    "product": {
+      "product_id": "PROD-003",
+      "name": "Polyvinyl Chloride (PVC) Sheets",
+      "description": "5-tier wooden bookshelf",
+      "unit_of_measure": "each",
+      "revision": "A",
+      "effective_date": "2025-03-10"
+    },
+    "components": [
+      {
+        "item_id": "COMP-301",
+        "name": "Rigid PVC (uPVC)",
+        "quantity": 6,
+        "unit_of_measure": "pieces"
+      },
+      {
+        "item_id": "COMP-302",
+        "name": "Flexible PVC",
+        "quantity": 40,
+        "unit_of_measure": "pieces"
+      }
+    ],
+    "metadata": {
+      "created_by": "engineering_user_01",
+      "created_at": "2025-08-03T14:20:00Z",
+      "status": false
+    }
+  },
+  {
+    "bom_id": "BOM-1004",
+    "product": {
+      "product_id": "PROD-004",
+      "name": "Acrylonitrile Butadiene Styrene (ABS) Sheets",
+      "description": "Rechargeable LED desk lamp with dimmer",
+      "unit_of_measure": "each",
+      "revision": "C",
+      "effective_date": "2025-04-05"
+    },
+    "components": [
+      {
+        "item_id": "COMP-401",
+        "name": "Automotive",
+        "quantity": 1,
+        "unit_of_measure": "pieces"
+      },
+      {
+        "item_id": "COMP-402",
+        "name": "Prototype housing",
+        "quantity": 1,
+        "unit_of_measure": "pieces"
+      }
+    ],
+    "metadata": {
+      "created_by": "engineering_user_03",
+      "created_at": "2025-08-04T11:45:00Z",
+      "status": true
+    }
+  },
+  {
+    "bom_id": "BOM-1005",
+    "product": {
+      "product_id": "PROD-005",
+      "name": "Polytetrafluoroethylene (PTFE) Sheets",
+      "description": "Wi-Fi-enabled smart home thermostat",
+      "unit_of_measure": "each",
+      "revision": "D",
+      "effective_date": "2025-05-01"
+    },
+    "components": [
+      {
+        "item_id": "COMP-501",
+        "name": "Teflon",
+        "quantity": 1,
+        "unit_of_measure": "pieces"
+      },
+      {
+        "item_id": "COMP-502",
+        "name": "Heat-resistant",
+        "quantity": 1,
+        "unit_of_measure": "pieces"
+      }
+    ],
+    "metadata": {
+      "created_by": "engineering_user_02",
+      "created_at": "2025-08-05T08:15:00Z",
+      "status": false
+    }
+  }
+]

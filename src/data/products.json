@@ -1,0 +1,242 @@
+[
+  {
+    "id": "P01",
+    "name": "Polycarbonate Sheet Clear 4x8 ft",
+    "description": "Slim wireless Bluetooth keyboard with rechargeable battery.",
+    "price": "3,999,800",
+    "category": "Polymer Sheets",
+    "sku": "PC-CL-4X8",
+    "stockQuantity": 85,
+    "inStock": "Available",
+    "manufacture_date": "06-2025",
+    "expire_date": "06-2028",
+    "stock_price": 3399,
+    "images": [
+      {
+        "url": "/1.png",
+        "alt": "Bluetooth keyboard front view"
+      }
+    ],
+    "vendor": "sophia.ali"
+  },
+  {
+    "id": "P02",
+    "name": "PVC Foam Sheet White 5mm",
+    "description": "Over-ear headphones with ANC and 30-hour battery life.",
+    "price": "7,945,800",
+    "category": "Polymer Sheets",
+    "sku": "PVC-WH-5MM",
+    "stockQuantity": 60,
+    "inStock": "Available",
+    "manufacture_date": "03-2025",
+    "expire_date": "03-2028",
+    "stock_price": 4799,
+    "images": [
+      {
+        "url": "/2.png",
+        "alt": "Black noise cancelling headphones"
+      }
+    ],
+    "vendor": "luis.martin"
+  },
+  {
+    "id": "P03",
+    "name": "Acrylic Sheet Transparent 3mm",
+    "description": "Compact power bank with dual USB outputs.",
+    "price": "1,294,800",
+    "category": "Polymer Sheets",
+    "sku": "ACR-TR-3MM",
+    "stockQuantity": 150,
+    "inStock": "Available",
+    "manufacture_date": "02-2025",
+    "expire_date": "02-2027",
+    "stock_price": 3675,
+    "images": [
+      {
+        "url": "/3.png",
+        "alt": "Compact power bank in black"
+      }
+    ],
+    "vendor": "ethan.thomas"
+  },
+  {
+    "id": "P04",
+    "name": "HDPE Sheet Black 10mm",
+    "description": "Adjustable brightness lamp with wireless charging base.",
+    "price": "4,544,200",
+    "category": "Polymer Sheets",
+    "sku": "HDPE-BK-10MM",
+    "stockQuantity": 40,
+    "inStock": "Available",
+    "manufacture_date": "04-2025",
+    "expire_date": "04-2028",
+    "stock_price": 1999,
+    "images": [
+      {
+        "url": "/4.png",
+        "alt": "Smart LED desk lamp with charging dock"
+      }
+    ],
+    "vendor": "ethan.thomas"
+  },
+  {
+    "id": "P05",
+    "name": "Polypropylene Sheet Natural 6mm",
+    "description": "4K video output USB-C to HDMI adapter for laptops.",
+    "price": "1,500,500",
+    "category": "Polymer Sheets",
+    "sku": "PP-NT-6MM",
+    "stockQuantity": 200,
+    "inStock": "Available",
+    "manufacture_date": "01-2025",
+    "expire_date": "01-2027",
+    "stock_price": 3198,
+    "images": [
+      {
+        "url": "/5.png",
+        "alt": "USB-C to HDMI metal adapter"
+      }
+    ],
+    "vendor": "sophia.ali"
+  },
+  {
+    "id": "P06",
+    "name": "ABS Sheet Grey 4x4 ft",
+    "description": "USB webcam with built-in microphone and privacy shutter.",
+    "price": "3,809,100",
+    "category": "Polymer Sheets",
+    "sku": "ABS-GY-4X4",
+    "stockQuantity": 90,
+    "inStock": "Available",
+    "manufacture_date": "03-2025",
+    "expire_date": "03-2028",
+    "stock_price": 3149,
+    "images": [
+      {
+        "url": "/1.png",
+        "alt": "Full HD webcam with clip mount"
+      }
+    ],
+    "vendor": "liam.jones"
+  },
+  {
+    "id": "P07",
+    "name": "PETG Sheet Transparent 2mm",
+    "description": "Adjustable aluminum laptop stand for desk setup.",
+    "price": "2,799,000",
+    "category": "Polymer Sheets",
+    "sku": "PETG-TR-2MM",
+    "stockQuantity": 70,
+    "inStock": "Available",
+    "manufacture_date": "06-2025",
+    "expire_date": "06-2028",
+    "stock_price": 1959,
+    "images": [
+      {
+        "url": "/2.png",
+        "alt": "Aluminum ergonomic laptop stand"
+      }
+    ],
+    "vendor": "liam.jones"
+  },
+  {
+    "id": "P08",
+    "name": "Teflon PTFE Sheet White 1mm",
+    "description": "Multifunctional hub with HDMI, USB 3.0, SD card slots.",
+    "price": "4,499,000",
+    "category": "Polymer Sheets",
+    "sku": "PTFE-WH-1MM",
+    "stockQuantity": 110,
+    "inStock": "Available",
+    "manufacture_date": "05-2025",
+    "expire_date": "05-2027",
+    "stock_price": 4948,
+    "images": [
+      {
+        "url": "/3.png",
+        "alt": "6-in-1 USB-C hub in silver"
+      }
+    ],
+    "vendor": "david.nguyen"
+  },
+  {
+    "id": "P09",
+    "name": "Polycarbonate Sheet Bronze 6mm",
+    "description": "Fast wireless charger compatible with Qi-enabled devices.",
+    "price": "1,499,000",
+    "category": "Polymer Sheets",
+    "sku": "PC-BR-6MM",
+    "stockQuantity": 180,
+    "inStock": "Available",
+    "manufacture_date": "08-2025",
+    "expire_date": "08-2027",
+    "stock_price": 3598,
+    "images": [
+      {
+        "url": "/6.png",
+        "alt": "Black wireless charging pad"
+      }
+    ],
+    "vendor": "ethan.thomas"
+  },
+  {
+    "id": "P10",
+    "name": "Acrylic Mirror Sheet Silver 3mm",
+    "description": "Waterproof portable Bluetooth speaker with bass boost.",
+    "price": "5,999,900",
+    "category": "Polymer Sheets",
+    "sku": "ACR-MIR-3MM",
+    "stockQuantity": 50,
+    "inStock": "Available",
+    "manufacture_date": "03-2025",
+    "expire_date": "03-2027",
+    "stock_price": 2999,
+    "images": [
+      {
+        "url": "/3.png",
+        "alt": "Portable Bluetooth speaker on table"
+      }
+    ],
+    "vendor": "david.nguyen"
+  },
+  {
+    "id": "P11",
+    "name": "PVC Rigid Sheet Grey 2mm",
+    "description": "App-controlled smart plug compatible with Alexa & Google.",
+    "price": "2,340,800",
+    "category": "Polymer Sheets",
+    "sku": "PVC-RG-2MM",
+    "stockQuantity": 220,
+    "inStock": "Available",
+    "manufacture_date": "09-2025",
+    "expire_date": "09-2028",
+    "stock_price": 3297,
+    "images": [
+      {
+        "url": "/1.png",
+        "alt": "Smart Wi-Fi plug with LED indicator"
+      }
+    ],
+    "vendor": "liam.jones"
+  },
+  {
+    "id": "P12",
+    "name": "HDPE Sheet White 12mm",
+    "description": "High-speed external solid-state drive with USB 3.2.",
+    "price": "1,440,000",
+    "category": "Polymer Sheets",
+    "sku": "HDPE-WH-12MM",
+    "stockQuantity": 35,
+    "inStock": "Available",
+    "manufacture_date": "07-2025",
+    "expire_date": "07-2028",
+    "stock_price": 4199,
+    "images": [
+      {
+        "url": "/4.png",
+        "alt": "1TB portable SSD with rubber cover"
+      }
+    ],
+    "vendor": "david.nguyen"
+  }
+]

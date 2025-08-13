@@ -1,0 +1,152 @@
+[
+  {
+    "vid": 1,
+    "name": "Alpha Supplies Co.",
+    "phone": "+1-555-123-4567",
+    "email": "contact@alphasupplies.com",
+    "status": true,
+    "create_at": "2025-08-01",
+    "approve": true,
+    "address": "101 Industrial Ave, Dallas, TX"
+  },
+  {
+    "vid": 2,
+    "name": "Beta Traders",
+    "phone": "+1-555-234-5678",
+    "email": "sales@betatraders.com",
+    "status": false,
+    "create_at": "2025-08-01",
+    "approve": false,
+    "address": "202 Market St, San Francisco, CA"
+  },
+  {
+    "vid": 3,
+    "name": "Gamma Goods Inc.",
+    "phone": "+1-555-345-6789",
+    "email": "support@gammagoods.com",
+    "status": true,
+    "create_at": "2025-08-01",
+    "approve": true,
+    "address": "303 Commerce Blvd, Chicago, IL"
+  },
+  {
+    "vid": 4,
+    "name": "Delta Products",
+    "phone": "+1-555-456-7890",
+    "email": "info@deltaproducts.com",
+    "status": false,
+    "create_at": "2025-08-01",
+    "approve": true,
+    "address": "404 Supply Lane, Atlanta, GA"
+  },
+  {
+    "vid": 5,
+    "name": "Epsilon Essentials",
+    "phone": "+1-555-567-8901",
+    "email": "hello@epsilonessentials.com",
+    "status": true,
+    "create_at": "2025-08-01",
+    "approve": true,
+    "address": "505 Wholesale Dr, Miami, FL"
+  },
+  {
+    "vid": 6,
+    "name": "Zeta Distributors",
+    "phone": "+1-555-678-9012",
+    "email": "service@zetadistributors.com",
+    "status": false,
+    "create_at": "2025-08-01",
+    "approve": false,
+    "address": "606 Vendor Pl, New York, NY"
+  },
+  {
+    "vid": 7,
+    "name": "Eta Wholesale",
+    "phone": "+1-555-789-0123",
+    "email": "contact@etawholesale.com",
+    "status": true,
+    "create_at": "2025-08-01",
+    "approve": false,
+    "address": "707 Logistics St, Phoenix, AZ"
+  },
+  {
+    "vid": 8,
+    "name": "Theta Goods",
+    "phone": "+1-555-890-1234",
+    "email": "info@thetagoods.com",
+    "status": true,
+    "create_at": "2025-08-01",
+    "approve": true,
+    "address": "808 Distribution Rd, Denver, CO"
+  },
+  {
+    "vid": 9,
+    "name": "Iota Supplies",
+    "phone": "+1-555-901-2345",
+    "email": "support@iotasupplies.com",
+    "status": false,
+    "create_at": "2025-08-01",
+    "approve": false,
+    "address": "909 Supply Chain Ln, Seattle, WA"
+  },
+  {
+    "vid": 10,
+    "name": "Kappa Vendors",
+    "phone": "+1-555-012-3456",
+    "email": "hello@kappavendors.com",
+    "status": false,
+    "create_at": "2025-08-01",
+    "approve": true,
+    "address": "100 Vendor Circle, Boston, MA"
+  },
+  {
+    "vid": 11,
+    "name": "Lambda Markets",
+    "phone": "+1-555-111-2222",
+    "email": "info@lambdamarkets.com",
+    "status": true,
+    "create_at": "2025-08-01",
+    "approve": true,
+    "address": "111 Distribution Blvd, Houston, TX"
+  },
+  {
+    "vid": 12,
+    "name": "Mu Enterprises",
+    "phone": "+1-555-222-3333",
+    "email": "sales@muenterprises.com",
+    "status": false,
+    "create_at": "2025-08-01",
+    "approve": false,
+    "address": "121 Commerce Park, Las Vegas, NV"
+  },
+  {
+    "vid": 13,
+    "name": "Nu Supply Co.",
+    "phone": "+1-555-333-4444",
+    "email": "support@nusupply.com",
+    "status": true,
+    "create_at": "2025-08-01",
+    "approve": true,
+    "address": "131 Wholesale Way, San Diego, CA"
+  },
+  {
+    "vid": 14,
+    "name": "Xi Traders",
+    "phone": "+1-555-444-5555",
+    "email": "service@xitraders.com",
+    "status": false,
+    "create_at": "2025-08-01",
+    "approve": false,
+    "address": "141 Vendor Row, Charlotte, NC"
+  },
+  {
+    "vid": 15,
+    "name": "Omicron Supplies",
+    "phone": "+1-555-555-6666",
+    "email": "info@omicronsupplies.com",
+    "status": true,
+    "create_at": "2025-08-01",
+    "approve": true,
+    "address": "151 Supply Blvd, Portland, OR"
+  }
+]

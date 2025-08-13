@@ -1,0 +1,242 @@
+[
+  {
+    "employee_id": "EMP001",
+    "name": "Alice Johnson",
+    "designation": "Software Engineer",
+    "department": "IT",
+    "basic_salary": 50000,
+    "allowances": {
+      "hra": 10000,
+      "transport": 3000
+    },
+    "deductions": {
+      "tax": 5000,
+      "pf": 2500
+    },
+    "net_salary": 55500
+  },
+  {
+    "employee_id": "EMP002",
+    "name": "Bob Smith",
+    "designation": "Accountant",
+    "department": "Finance",
+    "basic_salary": 40000,
+    "allowances": {
+      "hra": 8000,
+      "transport": 2500
+    },
+    "deductions": {
+      "tax": 4000,
+      "pf": 2000
+    },
+    "net_salary": 44500
+  },
+  {
+    "employee_id": "EMP003",
+    "name": "Charlie Brown",
+    "designation": "HR Executive",
+    "department": "HR",
+    "basic_salary": 38000,
+    "allowances": {
+      "hra": 7000,
+      "transport": 2000
+    },
+    "deductions": {
+      "tax": 3500,
+      "pf": 1800
+    },
+    "net_salary": 42700
+  },
+  {
+    "employee_id": "EMP004",
+    "name": "Diana Prince",
+    "designation": "Project Manager",
+    "department": "IT",
+    "basic_salary": 60000,
+    "allowances": {
+      "hra": 12000,
+      "transport": 4000
+    },
+    "deductions": {
+      "tax": 6000,
+      "pf": 3000
+    },
+    "net_salary": 63000
+  },
+  {
+    "employee_id": "EMP005",
+    "name": "Ethan Hunt",
+    "designation": "Sales Manager",
+    "department": "Sales",
+    "basic_salary": 45000,
+    "allowances": {
+      "hra": 9000,
+      "transport": 3500
+    },
+    "deductions": {
+      "tax": 4500,
+      "pf": 2200
+    },
+    "net_salary": 50800
+  },
+  {
+    "employee_id": "EMP006",
+    "name": "Fiona Gallagher",
+    "designation": "Business Analyst",
+    "department": "IT",
+    "basic_salary": 47000,
+    "allowances": {
+      "hra": 8500,
+      "transport": 3000
+    },
+    "deductions": {
+      "tax": 4200,
+      "pf": 2100
+    },
+    "net_salary": 56200
+  },
+  {
+    "employee_id": "EMP007",
+    "name": "George Bailey",
+    "designation": "Marketing Lead",
+    "department": "Marketing",
+    "basic_salary": 43000,
+    "allowances": {
+      "hra": 8000,
+      "transport": 2500
+    },
+    "deductions": {
+      "tax": 4000,
+      "pf": 2000
+    },
+    "net_salary": 51500
+  },
+  {
+    "employee_id": "EMP008",
+    "name": "Hannah Montana",
+    "designation": "UX Designer",
+    "department": "Design",
+    "basic_salary": 46000,
+    "allowances": {
+      "hra": 8500,
+      "transport": 2700
+    },
+    "deductions": {
+      "tax": 4100,
+      "pf": 2050
+    },
+    "net_salary": 55150
+  },
+  {
+    "employee_id": "EMP009",
+    "name": "Ian Malcolm",
+    "designation": "Data Scientist",
+    "department": "IT",
+    "basic_salary": 52000,
+    "allowances": {
+      "hra": 11000,
+      "transport": 3300
+    },
+    "deductions": {
+      "tax": 5200,
+      "pf": 2600
+    },
+    "net_salary": 59500
+  },
+  {
+    "employee_id": "EMP010",
+    "name": "Julia Roberts",
+    "designation": "Recruiter",
+    "department": "HR",
+    "basic_salary": 39000,
+    "allowances": {
+      "hra": 7500,
+      "transport": 2300
+    },
+    "deductions": {
+      "tax": 3600,
+      "pf": 1850
+    },
+    "net_salary": 45350
+  },
+  {
+    "employee_id": "EMP011",
+    "name": "Kevin Hart",
+    "designation": "Support Engineer",
+    "department": "Support",
+    "basic_salary": 37000,
+    "allowances": {
+      "hra": 7000,
+      "transport": 2200
+    },
+    "deductions": {
+      "tax": 3400,
+      "pf": 1700
+    },
+    "net_salary": 44600
+  },
+  {
+    "employee_id": "EMP012",
+    "name": "Laura Palmer",
+    "designation": "Content Writer",
+    "department": "Marketing",
+    "basic_salary": 35000,
+    "allowances": {
+      "hra": 6500,
+      "transport": 2000
+    },
+    "deductions": {
+      "tax": 3200,
+      "pf": 1600
+    },
+    "net_salary": 41700
+  },
+  {
+    "employee_id": "EMP013",
+    "name": "Michael Scott",
+    "designation": "Regional Manager",
+    "department": "Sales",
+    "basic_salary": 55000,
+    "allowances": {
+      "hra": 11000,
+      "transport": 3600
+    },
+    "deductions": {
+      "tax": 5500,
+      "pf": 2700
+    },
+    "net_salary": 61300
+  },
+  {
+    "employee_id": "EMP014",
+    "name": "Nina Williams",
+    "designation": "Graphic Designer",
+    "department": "Design",
+    "basic_salary": 42000,
+    "allowances": {
+      "hra": 8000,
+      "transport": 2500
+    },
+    "deductions": {
+      "tax": 3900,
+      "pf": 1950
+    },
+    "net_salary": 48650
+  },
+  {
+    "employee_id": "EMP015",
+    "name": "Oscar Isaac",
+    "designation": "Product Manager",
+    "department": "Product",
+    "basic_salary": 58000,
+    "allowances": {
+      "hra": 11500,
+      "transport": 3800
+    },
+    "deductions": {
+      "tax": 5700,
+      "pf": 2850
+    },
+    "net_salary": 64750
+  }
+]

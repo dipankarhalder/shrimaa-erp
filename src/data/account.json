@@ -1,0 +1,112 @@
+[
+  {
+    "account_id": "ACC-0001",
+    "account_name": "Cash in Hand",
+    "account_type": "Asset",
+    "account_code": "1001",
+    "parent_account": "Cash & Bank",
+    "currency": "USD",
+    "status": true,
+    "created_by": "finance_admin",
+    "created_at": "2025-01-01T09:00:00Z"
+  },
+  {
+    "account_id": "ACC-0002",
+    "account_name": "Bank Account - Main",
+    "account_type": "Asset",
+    "account_code": "1002",
+    "parent_account": "Cash & Bank",
+    "currency": "USD",
+    "status": false,
+    "created_by": "finance_admin",
+    "created_at": "2025-01-01T09:05:00Z"
+  },
+  {
+    "account_id": "ACC-0003",
+    "account_name": "Accounts Receivable",
+    "account_type": "Asset",
+    "account_code": "1101",
+    "parent_account": "Current Assets",
+    "currency": "USD",
+    "status": true,
+    "created_by": "finance_admin",
+    "created_at": "2025-01-01T09:10:00Z"
+  },
+  {
+    "account_id": "ACC-0004",
+    "account_name": "Accounts Payable",
+    "account_type": "Liability",
+    "account_code": "2001",
+    "parent_account": "Current Liabilities",
+    "currency": "USD",
+    "status": true,
+    "created_by": "finance_admin",
+    "created_at": "2025-01-01T09:15:00Z"
+  },
+  {
+    "account_id": "ACC-0005",
+    "account_name": "Sales Revenue",
+    "account_type": "Income",
+    "account_code": "4001",
+    "parent_account": "Revenue",
+    "currency": "USD",
+    "status": true,
+    "created_by": "finance_admin",
+    "created_at": "2025-01-01T09:20:00Z"
+  },
+  {
+    "account_id": "ACC-0006",
+    "account_name": "Service Income",
+    "account_type": "Income",
+    "account_code": "4002",
+    "parent_account": "Revenue",
+    "currency": "USD",
+    "status": false,
+    "created_by": "finance_admin",
+    "created_at": "2025-01-01T09:25:00Z"
+  },
+  {
+    "account_id": "ACC-0007",
+    "account_name": "Office Supplies Expense",
+    "account_type": "Expense",
+    "account_code": "5001",
+    "parent_account": "Operating Expenses",
+    "currency": "USD",
+    "status": false,
+    "created_by": "finance_admin",
+    "created_at": "2025-01-01T09:30:00Z"
+  },
+  {
+    "account_id": "ACC-0008",
+    "account_name": "Salaries & Wages",
+    "account_type": "Expense",
+    "account_code": "5002",
+    "parent_account": "Operating Expenses",
+    "currency": "USD",
+    "status": true,
+    "created_by": "finance_admin",
+    "created_at": "2025-01-01T09:35:00Z"
+  },
+  {
+    "account_id": "ACC-0009",
+    "account_name": "Retained Earnings",
+    "account_type": "Equity",
+    "account_code": "3001",
+    "parent_account": "Owner's Equity",
+    "currency": "USD",
+    "status": true,
+    "created_by": "finance_admin",
+    "created_at": "2025-01-01T09:40:00Z"
+  },
+  {
+    "account_id": "ACC-0010",
+    "account_name": "Depreciation Expense",
+    "account_type": "Expense",
+    "account_code": "5003",
+    "parent_account": "Operating Expenses",
+    "currency": "USD",
+    "status": false,
+    "created_by": "finance_admin",
+    "created_at": "2025-01-01T09:45:00Z"
+  }
+]

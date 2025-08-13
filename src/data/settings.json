@@ -1,0 +1,50 @@
+[
+  {
+    "settingId": "SET001",
+    "name": "darkMode",
+    "description": "Enable or disable dark mode for the interface.",
+    "value": true,
+    "type": "boolean",
+    "isEditable": true
+  },
+  {
+    "settingId": "SET002",
+    "name": "language",
+    "description": "Preferred language for the application.",
+    "value": "English",
+    "type": "string",
+    "isEditable": true
+  },
+  {
+    "settingId": "SET003",
+    "name": "notificationsEnabled",
+    "description": "Allow push notifications.",
+    "value": false,
+    "type": "boolean",
+    "isEditable": true
+  },
+  {
+    "settingId": "SET004",
+    "name": "autoSaveInterval",
+    "description": "Interval in minutes to autosave content.",
+    "value": 10,
+    "type": "number",
+    "isEditable": true
+  },
+  {
+    "settingId": "SET005",
+    "name": "maintenanceMode",
+    "description": "Put the system into maintenance mode.",
+    "value": false,
+    "type": "boolean",
+    "isEditable": false
+  },
+  {
+    "settingId": "SET006",
+    "name": "timezone",
+    "description": "Default timezone for the user profile.",
+    "value": "Asia/India",
+    "type": "string",
+    "isEditable": true
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "employee_id": "EMP001",
+    "name": "Alice Johnson",
+    "day1": "Present",
+    "day2": "Present",
+    "day3": "Present",
+    "day4": "Present",
+    "day5": "-",
+    "day6": "Present",
+    "day7": "Present"
+  },
+  {
+    "employee_id": "EMP002",
+    "name": "Bob Smith",
+    "day1": "Present",
+    "day2": "-",
+    "day3": "Present",
+    "day4": "Present",
+    "day5": "-",
+    "day6": "Present",
+    "day7": "Present"
+  },
+  {
+    "employee_id": "EMP003",
+    "name": "Charlie Brown",
+    "day1": "Present",
+    "day2": "Present",
+    "day3": "Present",
+    "day4": "Present",
+    "day5": "Present",
+    "day6": "-",
+    "day7": "-"
+  },
+  {
+    "employee_id": "EMP004",
+    "name": "Diana Prince",
+    "day1": "Present",
+    "day2": "Present",
+    "day3": "-",
+    "day4": "Present",
+    "day5": "Present",
+    "day6": "Present",
+    "day7": "Present"
+  },
+  {
+    "employee_id": "EMP005",
+    "name": "Ethan Hunt",
+    "day1": "Present",
+    "day2": "Present",
+    "day3": "Present",
+    "day4": "Present",
+    "day5": "-",
+    "day6": "Present",
+    "day7": "Present"
+  },
+  {
+    "employee_id": "EMP006",
+    "name": "Fiona Gallagher",
+    "day1": "Present",
+    "day2": "Present",
+    "day3": "Present",
+    "day4": "Present",
+    "day5": "Present",
+    "day6": "Present",
+    "day7": "Present"
+  },
+  {
+    "employee_id": "EMP007",
+    "name": "George Bailey",
+    "day1": "Present",
+    "day2": "Present",
+    "day3": "Present",
+    "day4": "Present",
+    "day5": "-",
+    "day6": "-",
+    "day7": "Present"
+  },
+  {
+    "employee_id": "EMP008",
+    "name": "Hannah Montana",
+    "day1": "Present",
+    "day2": "Present",
+    "day3": "Present",
+    "day4": "Present",
+    "day5": "Present",
+    "day6": "Present",
+    "day7": "Present"
+  },
+  {
+    "employee_id": "EMP009",
+    "name": "Ian Malcolm",
+    "day1": "Present",
+    "day2": "-",
+    "day3": "-",
+    "day4": "-",
+    "day5": "Present",
+    "day6": "Present",
+    "day7": "Present"
+  },
+  {
+    "employee_id": "EMP010",
+    "name": "Julia Roberts",
+    "day1": "-",
+    "day2": "Present",
+    "day3": "-",
+    "day4": "Present",
+    "day5": "Present",
+    "day6": "Present",
+    "day7": "Present"
+  }
+]
