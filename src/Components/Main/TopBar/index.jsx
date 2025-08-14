@@ -17,7 +17,7 @@ export const TopBar = ({ location }) => {
           <Location />
           <AppDropDownItem>
             <SelectBox
-              placeholder="Durgapur"
+              placeholder="Shree Maa Polyfabs Ltd."
               options={location}
               name={"location_dropdown"}
               id={"location_dropdown"}

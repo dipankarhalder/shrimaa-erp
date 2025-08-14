@@ -23,6 +23,7 @@ export const LocationsPage = () => {
     locationData &&
     locationData.map((item) => ({
       id: item.id,
+      image: item.image,
       name: item.warehouse_name,
       code: item.location_code,
       owner: item.owner,

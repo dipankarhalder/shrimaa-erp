@@ -18,9 +18,10 @@ export const userRole = {
 };
 
 export const locationInfo = [
-  { label: "Durgapur", value: "durgapur" },
-  { label: "Kolkata", value: "kolkata" },
-  { label: "Bangalore", value: "bangalore" },
+  { label: "Shree Maa Polyfabs Ltd.", value: "LOC1" },
+  { label: "Shree Maa Polyfabs (Unit - II)", value: "LOC2" },
+  { label: "Hariom Polypacks Ltd.", value: "LOC3" },
+  { label: "Manahar Polymers Private Limited", value: "LOC4" },
 ];
 
 export const breakpoints = {

@@ -47,9 +47,9 @@ export const WarehouseRevenueChart = ({ heights }) => {
   };
 
   const warehouseConfig = {
-    A: { label: "Warehouse A", color: "#49ca87ff" },
-    B: { label: "Warehouse B", color: "#ea4310ff" },
-    C: { label: "Warehouse C", color: "#d4ad10ff" },
+    A: { label: "Warehouse A", color: "#00963e" },
+    B: { label: "Warehouse B", color: "#95c324" },
+    C: { label: "Warehouse C", color: "#dcdc00" },
   };
 
   const current = warehouseConfig[selectedWarehouse];

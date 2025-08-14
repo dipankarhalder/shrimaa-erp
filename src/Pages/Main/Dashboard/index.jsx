@@ -29,19 +29,38 @@ import { Link } from "react-router-dom";
 
 const pagePaths = [{ label: "..Apps", path: "/" }];
 
+const groupLogo = [
+  // { id: 1, title: "ShriMaa1", imagePath: "/d1.jpg" },
+  { id: 2, title: "ShriMaa2", imagePath: "/d2.jpg" },
+  { id: 3, title: "ShriMaa3", imagePath: "/d3.jpg" },
+  { id: 4, title: "ShriMaa4", imagePath: "/d4.jpg" },
+  { id: 5, title: "ShriMaa5", imagePath: "/d5.jpg" },
+];
+
 export const DashboardPage = () => {
   return (
     <AppMainLayoutCover>
       <TopBar pageName="Dashboard" items={pagePaths} location={locationInfo} />
       <AppDeashboardSection>
         <div className="app_heading_section">
-          <h2>
-            Hello, <span>Himadri Chakraborti</span>
-          </h2>
-          <p>
-            Wishing you a fantastic day - I hope everything is going smoothly
-            and bringing you joy.
-          </p>
+          <div className="app_heading_aside">
+            <h2>
+              Hello, <span>Himadri Chakraborti</span>
+            </h2>
+            <p>
+              Wishing you a fantastic day - I hope everything is going smoothly
+              and bringing you joy.
+            </p>
+          </div>
+          <div className="app_all_group_logo">
+            <ul>
+              {groupLogo.map((item) => (
+                <li key={item.id}>
+                  <img src={item.imagePath} alt={item.title} />
+                </li>
+              ))}
+            </ul>
+          </div>
         </div>
         <div className="app_list_overview_items">
           <div className="app_list_info">
