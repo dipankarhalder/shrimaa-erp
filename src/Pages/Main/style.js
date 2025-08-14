@@ -109,27 +109,52 @@ export const AppDeashboardSection = styled.div`
   .app_heading_section {
     display: flex;
     width: 100%;
-    flex-direction: column;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
     margin-bottom: 30px;
 
-    h2 {
-      color: ${({ theme }) => theme.colors.gray};
-      font-size: 15px;
-      font-weight: 600;
-      margin-bottom: 3px;
+    .app_heading_aside {
+      display: flex;
+      flex-direction: column;
 
-      & > span {
-        color: ${({ theme }) => theme.colors.btnbg};
-        font-size: 18px;
-        font-weight: 700;
-        margin-left: 4px;
+      h2 {
+        color: ${({ theme }) => theme.colors.gray};
+        font-size: 15px;
+        font-weight: 600;
+        margin-bottom: 3px;
+
+        & > span {
+          color: ${({ theme }) => theme.colors.btnbg};
+          font-size: 18px;
+          font-weight: 700;
+          margin-left: 4px;
+        }
+      }
+
+      & > p {
+        color: ${({ theme }) => theme.colors.black};
+        font-size: 13px;
+        font-weight: 600;
       }
     }
 
-    & > p {
-      color: ${({ theme }) => theme.colors.black};
-      font-size: 13px;
-      font-weight: 600;
+    .app_all_group_logo {
+      display: flex;
+
+      & > ul {
+        display: flex;
+        width: auto;
+        gap: 14px;
+        align-items: center;
+
+        & > li {
+          width: 84px;
+          padding: 8px 12px;
+          border-radius: 6px;
+          border: 1px solid ${({ theme }) => theme.colors.tableborder};
+        }
+      }
     }
   }
 
