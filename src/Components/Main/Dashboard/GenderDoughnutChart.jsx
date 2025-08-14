@@ -9,18 +9,8 @@ const data = {
     {
       label: "Gender Distribution",
       data: [45, 30, 12, 8],
-      backgroundColor: [
-        "rgba(54, 162, 235, 1)",
-        "rgba(255, 99, 132, 1)",
-        "rgba(255, 206, 86, 1)",
-        "rgba(75, 192, 192, 1)",
-      ],
-      borderColor: [
-        "rgba(54, 162, 235, 1)",
-        "rgba(255, 99, 132, 1)",
-        "rgba(255, 206, 86, 1)",
-        "rgba(75, 192, 192, 1)",
-      ],
+      backgroundColor: ["#00963e", "#52ac32", "#95c324", "#bfcf12"],
+      borderColor: ["#00963e", "#52ac32", "#95c324", "#bfcf12"],
       borderWidth: 1,
     },
   ],

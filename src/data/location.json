@@ -1,7 +1,8 @@
 [
   {
     "id": "LOC1",
-    "warehouse_name": "Main Warehouse",
+    "image": "/d1.jpg",
+    "warehouse_name": "Shree Maa Polyfabs Ltd.",
     "location_code": "GC001",
     "location_address": "123 Elm Street, Springfield, IL",
     "owner": "Susan Fields",
@@ -11,7 +12,8 @@
   },
   {
     "id": "LOC2",
-    "warehouse_name": "East Distribution Center",
+    "image": "/d2.jpg",
+    "warehouse_name": "Shree Maa Polyfabs (Unit - II)",
     "location_code": "GR002",
     "location_address": "456 Oak Avenue, Asheville, NC",
     "owner": "Michael Ray",
@@ -21,7 +23,8 @@
   },
   {
     "id": "LOC3",
-    "warehouse_name": "South Logistics Hub",
+    "image": "/d4.jpg",
+    "warehouse_name": "Hariom Polypacks Ltd.",
     "location_code": "GT003",
     "location_address": "789 Pine Blvd, Orlando, FL",
     "owner": "Linda Carter",
@@ -31,52 +34,13 @@
   },
   {
     "id": "LOC4",
-    "warehouse_name": "Northwest Storage",
+    "image": "/d5.jpg",
+    "warehouse_name": "Manahar Polymers Private Limited",
     "location_code": "GNU004",
     "location_address": "101 Maple Road, Duluth, MN",
     "owner": "John Keller",
     "contact_no": "+1-218-555-0110",
     "status": false,
     "create_date": "2019-11-03"
-  },
-  {
-    "id": "LOC5",
-    "warehouse_name": "Cedar Materials Depot",
-    "location_code": "GCC005",
-    "location_address": "222 Cedar St, Boise, ID",
-    "owner": "Rachel Greene",
-    "contact_no": "+1-208-555-0234",
-    "status": true,
-    "create_date": "2020-02-14"
-  },
-  {
-    "id": "LOC6",
-    "warehouse_name": "Central Texas Warehouse",
-    "location_code": "GSP006",
-    "location_address": "333 Birch Ln, Austin, TX",
-    "owner": "Samuel Lee",
-    "contact_no": "+1-512-555-0345",
-    "status": true,
-    "create_date": "2022-04-18"
-  },
-  {
-    "id": "LOC7",
-    "warehouse_name": "Rocky Mountain Depot",
-    "location_code": "GMVC007",
-    "location_address": "444 Aspen Drive, Denver, CO",
-    "owner": "Emily Novak",
-    "contact_no": "+1-303-555-0567",
-    "status": false,
-    "create_date": "2021-09-07"
-  },
-  {
-    "id": "LOC8",
-    "warehouse_name": "Willow Distribution Center",
-    "location_code": "GAA008",
-    "location_address": "555 Willow Way, Madison, WI",
-    "owner": "Henry Adams",
-    "contact_no": "+1-608-555-0678",
-    "status": true,
-    "create_date": "2023-07-01"
   }
 ]
